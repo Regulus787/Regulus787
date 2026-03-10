@@ -19,7 +19,7 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 - **Capabilities:** Strategic Planning, Market Research, Service UX/UI Design
 
 ---
-## 💼 Professional Experience
+## 💼 Work Experience
 ### Consultant | Global Open Partners
 - KOREA-US Research-centric Hospital R&D Cooperation policy
 
