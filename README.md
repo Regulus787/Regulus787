@@ -1,4 +1,4 @@
-# Hi there, I'm Junyoung Bae! 👋
+# ✈️ Hi there, I'm Junyoung Bae! 👋
 
 I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan National Institute of Science and Technology)**. 
 
@@ -29,7 +29,7 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 ---
 
 ## Others
-- **Language:** English, Korean (Native) 
+- 💬**Language:** Korean (Native), English 
 
 ---
 
