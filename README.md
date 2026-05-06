@@ -10,22 +10,24 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 
 ---
 ## 🛠 Skills & Expertise
-### 📊 Data Science & Analysis
+#### 📊 Data Science & Analysis
 - **Languages & Frameworks:** Python, R, STATA
 - **Specialties:** Machine Learning, Deep Learning
 - **Interests:** Recommendation Systems, Reinforcement Learning, Text Mining
 
-### 💡 Business Strategy
+#### 💡 Business Strategy
 - **Capabilities:** Strategic Planning, Market Research, Service UX/UI Design
 
 ---
 ## 💼 Work Experience
-### Consultant | Global Open Partners
+#### Consultant | Global Open Partners
 - KOREA-US Research-centric Hospital R&D Cooperation policy
 
-### Project Manager | Koinonia Education
-- Development planning of Learning Management Systems (LMS) and Question Bank systems.
+#### Project Manager | Koinonia Education
+- Learning Management Systems (LMS) and Question Bank systems.
 
+#### Supply Sergeant | ROK ARMY
+- KATUSA (Korean Augmentation to the United States Army)
 ---
 
 ## Others
