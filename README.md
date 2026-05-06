@@ -26,7 +26,7 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 #### Project Manager | Koinonia Education
 - Learning Management Systems (LMS) and Question Bank systems.
 
-#### Supply Sergeant | ROK ARMY
+#### Supply Sergeant | ROK Army
 - KATUSA (Korean Augmentation to the United States Army)
 ---
 
