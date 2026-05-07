@@ -4,9 +4,11 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 
 I'm interested in the **strategic and financial implications of AI adoption and digital transformation**. My particular focus is on how **AI agents and generative models** reshape business activities such as market research and managerial decision-making.
 
-**Topics:** `AI Adoption Strategy` `Digital Transformation` `Market Research` `Agentic AI`
+**Topics:** `AI Adoption Strategy` `Digital Transformation` `Market Research` `Agentic AI` `Fintech`
 
-**Methods:** `Text Mining` `Reinforcement Learning` `Large Language Models(LLM)`
+**Methods:** `Text Mining` `Reinforcement Learning` `Large Language Models (LLMs)`
+
+**Also Exploring:** `Quantitative Finance` `Algorithmic Trading`
 
 ---
 
@@ -19,30 +21,26 @@ I'm interested in the **strategic and financial implications of AI adoption and 
 
 ## 💼 Work Experience
 
-#### CEO | Deep Agent (2026.07 ~ Present)
-- Co-Founder
+#### Co-Founder & CEO | Deep Agent (2026.07 ~ Present)
+- Building AI products across **Physical AI** and **Agentic AI**
 
 #### Project Manager | Koinonia Education (2024.06 ~ 2024.08)
-- Learning Management Systems (LMS) and Question Bank systems
+- Led full-time development of **Learning Management** and **Question Bank** systems
 
 #### Consultant | Global Open Partners (2024.03 ~ 2024.05)
-- KOREA-US Research-centric Hospital R&D Cooperation policy
+- Conducted policy research on **Korea–US Research-centric Hospital R&D Cooperation**
 
-#### Supply Sergeant | ROK Army (2021.06 ~ 2022.12)
-- KATUSA (Korean Augmentation to the United States Army)
+#### Supply Sergeant (KATUSA) | ROK Army (2021.06 ~ 2022.12)
+- Managed supply operations while serving in the Korean Augmentation to the United States Army (KATUSA) program
 
 ---
 
 ## 🛠 Skills & Expertise
-- Programming Language: `Python` `R` `Stata`
-- Data & Analytics: `Machine Learning` `Deep Learning`
-- Business & Strategy: `Strategic Planning` `Market Research` `Service UX/UI Design`
+**Programming:** `Python` `R` `Stata`
 
----
+**Business:** `Strategic Planning` `Project Management`
 
-## 🌏 Others
-
-- **Languages:** Korean (Native), English
+**Languages:** `Korean (Native)`, `English`
 
 ---
 
