@@ -5,7 +5,7 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 ---
 
 ## 🎓 Education
-- **M.S. in Management Science**, Ulsan National Institute of Science and Technology (UNIST), Ulsan (In Progress, 2025.03 ~ Present)
+- **M.S. in Management Science**, Ulsan National Institute of Science and Technology (UNIST), Ulsan (2025.03 ~ Present)
 - **B.B.A. in Digital Management**, Korea University, Sejong (2018.03 ~ 2023.08)
 
 ---
