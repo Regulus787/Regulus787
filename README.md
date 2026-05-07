@@ -20,18 +20,18 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 
 ---
 ## 💼 Work Experience
-#### Consultant | Global Open Partners
-- KOREA-US Research-centric Hospital R&D Cooperation policy
-
-#### Project Manager | Koinonia Education
+#### Project Manager | Koinonia Education (2024.06~2024.08)
 - Learning Management Systems (LMS) and Question Bank systems.
 
-#### Supply Sergeant | ROK Army
+#### Consultant | Global Open Partners (2024.03~2024.05)
+- KOREA-US Research-centric Hospital R&D Cooperation policy
+
+#### Supply Sergeant | ROK Army (2021.06~2022.12)
 - KATUSA (Korean Augmentation to the United States Army)
 ---
 
 ## Others
-- 💬**Language:** Korean (Native), English 
+- **Language:** Korean (Native), English 
 
 ---
 
