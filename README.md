@@ -9,16 +9,6 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 - **B.B.A. in Digital Management**, Korea University, Sejong (2018.03 ~ 2023.08)
 
 ---
-## 🛠 Skills & Expertise
-#### 📊 Data Science & Analysis
-- **Languages & Frameworks:** Python, R, STATA
-- **Specialties:** Machine Learning, Deep Learning
-- **Interests:** Recommendation Systems, Reinforcement Learning, Text Mining
-
-#### 💡 Business Strategy
-- **Capabilities:** Strategic Planning, Market Research, Service UX/UI Design
-
----
 ## 💼 Work Experience
 #### Project Manager | Koinonia Education (2024.06~2024.08)
 - Learning Management Systems (LMS) and Question Bank systems.
@@ -28,6 +18,16 @@ I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan 
 
 #### Supply Sergeant | ROK Army (2021.06~2022.12)
 - KATUSA (Korean Augmentation to the United States Army)
+---
+## 🛠 Skills & Expertise
+#### 📊 Data Science & Analysis
+- **Languages & Frameworks:** Python, R, STATA
+- **Specialties:** Machine Learning, Deep Learning
+- **Interests:** Recommendation Systems, Reinforcement Learning, Text Mining
+
+#### 💡 Business Strategy
+- **Capabilities:** Strategic Planning, Market Research, Service UX/UI Design
+
 ---
 
 ## Others
