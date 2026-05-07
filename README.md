@@ -2,7 +2,11 @@
 
 I am a **Master's student in Management Science (Marketing)** at **UNIST (Ulsan National Institute of Science and Technology)**.
 
-My interests: `Recommendation Systems` `Reinforcement Learning` `Text Mining`
+I'm interested in the **strategic and financial implications of AI adoption and digital transformation**. My particular focus is on how **AI agents and generative models** reshape business activities such as market research and managerial decision-making.
+
+**Topics:** `AI Adoption Strategy` `Digital Transformation` `Market Research` `Agentic AI`
+
+**Methods:** `Text Mining` `Reinforcement Learning` `Large Language Models(LLM)`
 
 ---
 
